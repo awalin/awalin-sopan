@@ -26,15 +26,14 @@ Visual analytic tool to compare uncertain graphs, provides different views to se
 
 ## Wrong Patient Error ##
 Project investigating the user interface and human factor issues in EHR systems that cause the problem of selecting a wrong patient. We suggest user interface techniques that can avoid this class of error and improve patient safety.
-[Video]
 
-Nation of Neighbors
+## Nation of Neighbors
 Analyzed evolution and dynamics of online community safety groups with network visualization approach.
 [Paper: IEEE SPM], [Talk]
 
-Community Health Map
+## Community Health Map
 A visual analytic tool for exploring US county public health data, in collaboration with US Dept. of Health and Human Services.
 [Paper: GIQ journal], [Video]
 
-NetVisia
+## NetVisia
 A social network visualization system exploring network evolution using heat maps to display node attribute changes over time.[Paper:SocioComp'12]
