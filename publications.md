@@ -1,4 +1,4 @@
-For a full list of my publications, please visit: https://scholar.google.com/citations?user=lVYmUdEAAAAJ&hl=en 
+For a full list of my publications, please visit my [Google scholar page](https://scholar.google.com/citations?user=lVYmUdEAAAAJ&hl=en) 
 
 ## Featured publications
 
