@@ -40,7 +40,7 @@ H Sharara, A Sopan, G Namata, L Getoor, L Singh
 
 8. NetVisia: Heat map & matrix visualization of dynamic social network statistics & content
 R Gove, N Gramsky, R Kirby, E Sefer, A Sopan, C Dunne, B Shneiderman
-2011 IEEE third international conference on privacy, security, risk and …
+2011 IEEE third international conference on privacy, security, risk
 
 
 9. Temporal visualization of social network dynamics: Prototypes for nation of neighbors
