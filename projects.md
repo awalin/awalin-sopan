@@ -1,24 +1,30 @@
 
+# Professional Research and Publications ## 
 
-#Projects and Publications#
+* https://ai.sophos.com/2021/10/15/analyzing-security-ml-models-with-imperfect-data-in-production/ 
+* Webinar: https://www2.fireeye.com/WBNR-Artificial-Intelligence-Machine-learning-webinar-Part-II.html 
+* https://www.mandiant.com/resources/build-machine-learning-models-for-the-soc
 
-##Conference Monitor##
+
+# Academic Research Projects and Publications #
+
+## Conference Monitor ##
 A real-time webapp to monitor the backchannel conversation (in Twitter) during academic conferences.
 [Paper: SocInfo'12], [Video]
 
-Distribution Column Overview
+## Distribution Column Overview ## 
 A novel way of exploring distribution data, provides an overview of distribution data, and facilitates the discovery of interesting clusters, patterns, outliers and relationships between distribution-columns.
 [Paper: Int'l Journal of HCI]
 
-ManyNets
+## ManyNets ##
 A visual analytic tool for network analysis with tabular interface. Visualizes up to several thousand network-overviews, allows network comparison.
 [Video],[VAST Mini Challenge AWARD]
 
-G-Pare
+## G-Pare ##
 Visual analytic tool to compare uncertain graphs, provides different views to see the overview of two graphs, as well as focused views that show subsets of nodes of interest.
 [Paper: VAST '11], [Video]
 
-Wrong Patient Error
+## Wrong Patient Error ##
 Project investigating the user interface and human factor issues in EHR systems that cause the problem of selecting a wrong patient. We suggest user interface techniques that can avoid this class of error and improve patient safety.
 [Video]
 
