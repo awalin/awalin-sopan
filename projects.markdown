@@ -10,6 +10,8 @@
 
 # Featured Works:
 
+Tech-stack: All full-stack web-applications I developed using React or some other js framwork, pyhton, AWS, and various database technologies. 
+
 ## AI Total: Analyzing Security ML Models with Imperfect Data in Production
 
 Once a machine learning model gets deployed into production, we need to move away from static dataset evaluation to automatically evaluating performance on new incoming data. This sounds simpler than it is practice, mainly because in a fully automatic pipeline it is difficult to understand if any observed performance issues are due to model performance, pipeline issues, emerging data distribution biases, or some combination of the above. We need a shared source of truth where all the teams can have a common situational awareness of what is going on with our models. Considering all these use-cases, we built a real-time visualization dashboard that helps our team to fulfill these goals: 
