@@ -3,7 +3,7 @@ I am Awalin Sopan, a data scientist focusing on data visualization and human-cen
 I have been published in IEEE VIS, SocialComp, KDD and SIGCHI. I am always ready to mentor and volunteer to increase the participation of women and BIPOC in STEM fields. I enjoy watching stand-up comedy and exploring the ever-evolving DC restaurant scene and the amazing national parks across the US. My family is spread across three continents speaking multiple languages, making me even more appreciative of the different landscapes, cultures & cuisines around the world.
 
 
-# Featured Works (full list of [projects](//projects.markdown) and [publications](/publications.md))
+# Featured Works (full list of [projects](/projects.markdown) and [publications](/publications.md))
 
 ## AI Total: Analyzing Security ML Models with Imperfect Data in Production
 
