@@ -2,7 +2,9 @@
 # Professional Research and Publications ## 
 
 * ML in Production: Monitoring Security ML Models in Production. [Blog version of the paper](https://ai.sophos.com/2021/10/15/analyzing-security-ml-models-with-imperfect-data-in-production/)
+* Improving Analyst Workflow using Event Clustering: [CAMLIS 2021](https://www.camlis.org/2021-sopan)
 * Webinar on AI for Cyber: [Webinar](https://www2.fireeye.com/WBNR-Artificial-Intelligence-Machine-learning-webinar-Part-II.html)
+* Interpretation of Threat Prediction Model for SOC Analysts, [CAMLIS 2018](https://www.camlis.org/awalin-nabila-sopan)
 * Human in the Loop for Security ML Model. [Blog version of the paper](https://www.mandiant.com/resources/build-machine-learning-models-for-the-soc)
 * Panel on Threat Landscape in the Post-pandemic World at WiCyS.
 
