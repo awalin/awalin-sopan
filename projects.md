@@ -12,44 +12,44 @@
 ## Conference Monitor ##
 A real-time webapp to monitor the backchannel conversation (in Twitter) during academic conferences.
 [Paper: SocInfo'12]
-![Conference Monitor](https://github.com/awalin/Awalin-Sopan/blob/main/cm.png)
+![Conference Monitor](/cm.png)
 
 
 ## Distribution Column Overview ## 
 A novel way of exploring distribution data, provides an overview of distribution data, and facilitates the discovery of interesting clusters, patterns, outliers and relationships between distribution-columns.
 [Paper: Int'l Journal of HCI]
-![Disctribution columns](https://github.com/awalin/Awalin-Sopan/blob/main/dc.png)
+![Disctribution columns](/dc.png)
 
 
 ## ManyNets ##
 A visual analytic tool for network analysis with tabular interface. Visualizes up to several thousand network-overviews, allows network comparison.
 [VAST Mini Challenge AWARD]
-![ManyNets](https://github.com/awalin/Awalin-Sopan/blob/main/mn.png)
+![ManyNets](/mn.png)
 
 
 ## G-Pare ##
 Visual analytic tool to compare uncertain graphs, provides different views to see the overview of two graphs, as well as focused views that show subsets of nodes of interest.
 [Paper: VAST '11]
-![G-PAre](https://github.com/awalin/Awalin-Sopan/blob/main/gp.png)
+![G-PAre](/gp.png)
 
 
 ## Wrong Patient Error ##
 Project investigating the user interface and human factor issues in EHR systems that cause the problem of selecting a wrong patient. We suggest user interface techniques that can avoid this class of error and improve patient safety.
-![Wrong Patient](https://github.com/awalin/Awalin-Sopan/blob/main/room.png)
+![Wrong Patient](/room.png)
 
 
 ## Nation of Neighbors
 Analyzed evolution and dynamics of online community safety groups with network visualization approach.
 [Paper: IEEE SPM], [Talk]
-![NationOfN](https://github.com/awalin/Awalin-Sopan/blob/main/non.png)
+![NationOfN](/non.png)
 
 
 ## Community Health Map
 A visual analytic tool for exploring US county public health data, in collaboration with US Dept. of Health and Human Services.
 [Paper: GIQ journal]
-![Health](https://github.com/awalin/Awalin-Sopan/blob/main/chm.png)
+![Health](/chm.png)
 
 
 ## NetVisia
 A social network visualization system exploring network evolution using heat maps to display node attribute changes over time.[Paper:SocioComp'12]
-![NV](https://github.com/awalin/Awalin-Sopan/blob/main/nv.png)
+![NV](/nv.png)
