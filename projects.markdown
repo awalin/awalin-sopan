@@ -19,14 +19,14 @@ Once a machine learning model gets deployed into production, we need to move awa
 * Investigate the reasons behind the issues 
 This web-based visualization system allows the users to quickly gather headline performance numbers while maintaining confidence that the underlying data pipeline is functioning properly. It also enables us to immediately observe the root cause of an issue when something goes wrong. 
 
-<img align="center" src="https://awalin.github.io/Awalin-Sopan/model_metric.webp" alt="AI Total" width="400">
+<img align="center" src="https://awalin.github.io/Awalin-Sopan/model_metric.webp" alt="AI Total" width="480">
 
 
 ## Reverse Engineering the Analyst: Building Machine Learning Models for the SOC
 
 Many cyber incidents can be traced back to an original alert that was either missed or ignored by the Security Operations Center (SOC) or Incident Response (IR) team. While most analysts and SOCs are vigilant and responsive, the fact is they are often overwhelmed with alerts. If a SOC is unable to review all the alerts it generates, then sooner or later, something important will slip through the cracks. Think of a SOC as a self-contained machine that inputs unlabeled alerts and outputs the alerts labeled as “malicious” or “benign”. How can we capture the analysis and determine that something is indeed malicious, and then recreate that analysis at scale? In other words, what if we could train a machine to make the same analytical decisions as an analyst, within an acceptable level of confidence? I developed an ML system that classifies cyber events based on SOC analyts' approach of clasiifying them and published a paper and patent based on the analysis of the model's efficacy.
 
-<img align="center" src="https://awalin.github.io/Awalin-Sopan/MLSOC.png" alt="ML Soc" width="400">
+<img align="center" src="https://awalin.github.io/Awalin-Sopan/MLSOC.png" alt="ML Soc" width="480">
 
 <!--![SOC ML Model](/ml-models-soc4.png) --> 
 
