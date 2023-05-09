@@ -7,7 +7,7 @@
 * Panel on Threat Landscape in the Post-pandemic World at WiCyS
 
 
-# Academic Projects and Publications #
+# Other Projects and Publications #
 
 ## Conference Monitor ##
 A real-time webapp to monitor the backchannel conversation (in Twitter) during academic conferences.[Paper: SocInfo'12]
