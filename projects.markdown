@@ -12,8 +12,6 @@
 ## Conference Monitor ##
 I developed real-time webapp to monitor the backchannel conversation (in Twitter) during academic conferences or any live event.[Paper: SocInfo'12]
 
-![Conf Monitor](https://awalin.github.io/Awalin-Sopan/cm.png)
-
 <img align="center" src="https://awalin.github.io/Awalin-Sopan/cm.png" alt="conf monitor" width="200">
 
 ## Distribution Column Overview ## 
