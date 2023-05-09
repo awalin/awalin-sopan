@@ -1,10 +1,10 @@
 
 # Professional Research and Publications ## 
 
-* ML in Production: Monitoring Security ML Models in Production https://ai.sophos.com/2021/10/15/analyzing-security-ml-models-with-imperfect-data-in-production/ 
-* Webinar on AI for Cyber: https://www2.fireeye.com/WBNR-Artificial-Intelligence-Machine-learning-webinar-Part-II.html 
-* Human in the Loop for Security ML Model: https://www.mandiant.com/resources/build-machine-learning-models-for-the-soc
-* Panel on Threat Landscape in the Post-pandemic World at WiCyS
+* ML in Production: Monitoring Security ML Models in Production. [Blog version of the paper](https://ai.sophos.com/2021/10/15/analyzing-security-ml-models-with-imperfect-data-in-production/)
+* Webinar on AI for Cyber: [Webinar](https://www2.fireeye.com/WBNR-Artificial-Intelligence-Machine-learning-webinar-Part-II.html)
+* Human in the Loop for Security ML Model. [Blog version of the paper](https://www.mandiant.com/resources/build-machine-learning-models-for-the-soc)
+* Panel on Threat Landscape in the Post-pandemic World at WiCyS.
 
 
 # Other Projects and Publications #
