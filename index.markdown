@@ -1,4 +1,4 @@
-I am Awalin Sopan (she/they), a data scientist focusing on data visualization and human-centered AI. 
+I am Awalin Sopan, a data scientist focusing on data visualization and human-centered AI. 
 
 I build data platforms enabling users to gain meaningful insights. I earned my Master’s in Computer Science with a focus on data science and interactive visual analytics from the University of Maryland (Human-Computer Interaction Lab), College Park. As a principal data science engineer I developed platforms to monitor machine learning models and incorporated such models into cyber analysts’ workflow. I also built data science applications to tackle cyber-attacks collaborating with 3 different teams. I also worked with healthcare workers and online community leaders analyzing public health and social network data. I like to bring people from different teams together and work closely with the product users. 
 
