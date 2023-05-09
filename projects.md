@@ -12,21 +12,21 @@
 ## Conference Monitor ##
 A real-time webapp to monitor the backchannel conversation (in Twitter) during academic conferences.[Paper: SocInfo'12]
 
-![Conference Monitor](/cm.png){ width="100" style="display: block; margin: 0 auto" }
+![Conference Monitor](/cm.png | width=100)
 
 
 ## Distribution Column Overview ## 
 A novel way of exploring distribution data, provides an overview of distribution data, and facilitates the discovery of interesting clusters, patterns, outliers and relationships between distribution-columns. [Paper: Int'l Journal of HCI]
 
 
-![Disctribution columns](/dc.png| width=100)
+![Disctribution columns](/dc.png | width=100)
 
 
 ## ManyNets ##
 A visual analytic tool for network analysis with tabular interface. Visualizes up to several thousand network-overviews, allows network comparison. [VAST Mini Challenge AWARD]
 
 
-![ManyNets](/mn.png| width=100)
+![ManyNets](/mn.png | width=100)
 
 
 ## G-Pare ##
@@ -40,25 +40,25 @@ Visual analytic tool to compare uncertain graphs, provides different views to se
 Project investigating the user interface and human factor issues in EHR systems that cause the problem of selecting a wrong patient. We suggest user interface techniques that can avoid this class of error and improve patient safety.
 
 
-![Wrong Patient](/room.png| width=100)
+![Wrong Patient](/room.png | width=100)
 
 
 ## Nation of Neighbors
 Analyzed evolution and dynamics of online community safety groups with network visualization approach.[Paper: IEEE SPM]
 
 
-![NationOfN](/non.png| width=100)
+![NationOfN](/non.png | width=100)
 
 
 ## Community Health Map
 A visual analytic tool for exploring US county public health data, in collaboration with US Dept. of Health and Human Services.[Paper: GIQ journal]
 
 
-![Health](/chm.png| width=100)
+![Health](/chm.png | width=100)
 
 
 ## NetVisia
 A social network visualization system exploring network evolution using heat maps to display node attribute changes over time.[Paper:SocioComp'12]
 
 
-![NV](/nv.png| width=100)
+![NV](/nv.png | width=100)
