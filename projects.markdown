@@ -7,6 +7,11 @@
 * Interpretation of Threat Prediction Model for SOC Analysts, [CAMLIS 2018](https://www.camlis.org/awalin-nabila-sopan)
 * Human in the Loop for Security ML Model. [Blog version of the paper](https://www.mandiant.com/resources/build-machine-learning-models-for-the-soc)
 * Panel on Threat Landscape in the Post-pandemic World at WiCyS.
+* Code for America Summit, 2023
+* NASA Data Science Summit, 2022
+* Panel on Threat Landscape in the Post-pandemic World at WiCyS.
+
+
 
 # Featured Works:
 
@@ -65,16 +70,12 @@ I developed this visual analytic tool to compare uncertain graphs, provides diff
 ## Wrong Patient Error ##
 I developed this project investigating the user interface and human factor issues in EHR systems that cause the problem of selecting a wrong patient. We suggest user interface techniques that can avoid this class of error and improve patient safety.
 
-
 <img align="center" src="https://awalin.github.io/Awalin-Sopan/room.png" alt="Wrong Patient Error" width="200">
-
   
 ## Community Health Map
 I co-developed this  visual analytic tool for exploring US county public health data, in collaboration with US Dept. of Health and Human Services.[Paper: GIQ journal]
 
-
 <img align="center" src="https://awalin.github.io/Awalin-Sopan/chm.png" alt="Community Health Map" width="300">
-
 
       
 ## Nation of Neighbors
