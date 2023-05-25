@@ -3,7 +3,7 @@
 
 I am Awalin Sopan, a data scientist focusing on data visualization and human-centered AI. I build data platforms enabling users to gain meaningful insights. I earned my Master’s in Computer Science with a focus on data science and interactive visual analytics from the University of Maryland (Human-Computer Interaction Lab), College Park. I have been published in IEEE VIS, SocialComp, KDD and SIGCHI. As a principal data science engineer I developed platforms to monitor machine learning models and incorporated such models into cyber analysts’ workflow. I have built data science applications to tackle cyber-attacks collaborating with 3 different teams; worked with healthcare workers and online community leaders analyzing public health and social network data. I like to bring people from different teams together and work closely with the product users. I am currently a [White House Presidnetial Innovation Fellow](https://presidentialinnovationfellows.gov/fellows/awalin-sopan/), serving the US Small Busienss Administration as a strategic advisor on data and analytics.
 
-# Featured Works (full list of [projects](/projects.markdown) and [publications](/publications.md))
+# Featured Works (more [projects](/projects.markdown) and [publications](/publications.md))
 
 ## AI Total: Analyzing Security ML Models with Imperfect Data in Production
 
