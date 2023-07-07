@@ -4,12 +4,7 @@ I am Awalin Sopan, a data scientist focusing on data visualization and human-cen
 
 ## AI Total: Analyzing Security ML Models with Imperfect Data in Production
 
-Once a machine learning model gets deployed into production, we need to move away from static dataset evaluation to automatically evaluate performance on new incoming data. This sounds simpler than it is practice, mainly because in a fully automatic pipeline it is difficult to understand if any observed performance issues are due to model performance, pipeline issues, emerging data distribution biases, or some combination of the above. We need a shared source of truth where all the teams can have a common situational awareness of what is going on with our models. Considering all these use cases, we built a real-time visualization dashboard that helps our team to fulfill these goals: 
-
-* Monitor the deployed models’ regular performance, observe time trends, and detect anomalies 
-* Detect issues with the evaluation data, models, or labeling 
-* Investigate the reasons behind the issues 
-This web-based visualization system allows users to quickly gather headline performance numbers while maintaining confidence that the underlying data pipeline is functioning properly. It also enables us to immediately observe the root cause of an issue when something goes wrong. 
+In a fully automatic deployment pipeline of ML Models, it is difficult to understand if any observed performance issues are due to model performance, pipeline issues, emerging data distribution biases, or some combination of the above. I built an analytics platform that allows users to quickly gather headline performance numbers while maintaining confidence that the underlying data pipeline is functioning properly. It also enables us to immediately observe the root cause of an issue when something goes wrong. 
 
 [Paper: AI Total: Analyzing Security ML Models with Imperfect Data in Production](https://ieeexplore.ieee.org/document/9629396). 2021 IEEE Symposium on Visualization for Cyber Security (VizSec).
 
@@ -17,7 +12,7 @@ This web-based visualization system allows users to quickly gather headline perf
 
 ## Reverse Engineering the Analyst: Building Machine Learning Models for the SOC
 
-Many cyber incidents can be traced back to an original alert that was either missed or ignored by the Security Operations Center (SOC) or Incident Response (IR) team. While most analysts and SOCs are vigilant and responsive, the fact is they are often overwhelmed with alerts. If a SOC is unable to review all the alerts it generates, then sooner or later, something important will slip through the cracks. Think of a SOC as a self-contained machine that inputs unlabeled alerts and outputs the alerts labeled as “malicious” or “benign”. How can we capture the analysis and determine that something is indeed malicious, and then recreate that analysis at scale? In other words, what if we could train a machine to make the same analytical decisions as an analyst, within an acceptable level of confidence? I developed an ML system that classifies cyber events based on SOC analysts' approach to classifying them and published a paper and patent based on the analysis of the model's efficacy. 
+What if we could train a machine to make the same analytical decisions as an analyst, within an acceptable level of confidence? I developed an ML system that classifies cyber events based on SOC analysts' approach to classifying them and published a paper and patent based on the analysis of the model's efficacy. 
 
 [Blog](https://www.mandiant.com/resources/blog/build-machine-learning-models-for-the-soc) and [Paper: Building a machine learning model for the soc, by the input from the soc, and analyzing it for the soc](https://ieeexplore.ieee.org/document/8709231). 2018 IEEE Symposium on Visualization for Cyber Security (VizSec).
 
