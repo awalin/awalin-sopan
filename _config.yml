@@ -4,3 +4,5 @@ plugins:
 
 title: Awalin's Portfolio
 description: I am a compassionate technologist who makes sense of data for people.
+show_downloads: false
+
