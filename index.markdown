@@ -39,7 +39,7 @@ What if we could train a machine to make the same analytical decisions as an exp
 
 ![SOC ML Model](/MLSOC.png) 
 
-![SOC ML Model](/ml-models-soc4.png) 
+<!-- ![SOC ML Model](/ml-models-soc4.png) -->
 
 # Other Projects and Publications #
 
