@@ -1,2 +1,1 @@
-# aboutme
-personal website/ portfolio
+Compassionate technologist, making sense of data for people. 
