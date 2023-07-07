@@ -25,14 +25,11 @@ In a fully automatic deployment pipeline of ML Models, it is difficult to unders
 * Investigate the reasons behind the issues 
 This web-based visualization system allows users to quickly gather headline performance numbers while maintaining confidence that the underlying data pipeline is functioning properly. It also enables us to immediately observe the root cause of an issue when something goes wrong. 
 
-![ML Model Metric](/model-metric.webp) 
-
-
 ## Reverse Engineering the Analyst: Building Machine Learning Models for the SOC
 
 What if we could train a machine to make the same analytical decisions as an experienced cyber analyst, within an acceptable level of confidence? I developed an ML system that classifies cyber events based on SOC analysts' approach to classifying them and published a paper and patent based on the analysis of the model's efficacy.
 
-![SOC ML Model](/ml-models-soc4.png) 
+![SOC ML Model](/ML.png) 
 
 # Other Projects and Publications #
 
@@ -40,7 +37,7 @@ What if we could train a machine to make the same analytical decisions as an exp
 
 I developed a real-time web app to monitor the backchannel conversation (on Twitter) during academic conferences or any live event.[Paper: SocInfo'12]
 
-![Conference monitoring](/cm.png) 
+<!-- ![Conference monitoring](/cm.png) -->
 
 
 ## Distribution Column Overview ## 
