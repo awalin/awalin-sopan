@@ -19,7 +19,7 @@ I am Awalin Sopan, a data scientist focusing on data visualization and human-cen
 * NASA Data Science Summit, 2022
 * Panel on Threat Landscape in the Post-pandemic World at WiCyS.
 
-Full list of [publications](/publications.md))
+Full list of [publications](/publications.md)
 
 # Featured Works:
 
