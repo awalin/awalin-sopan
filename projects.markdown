@@ -1,5 +1,5 @@
 
-# Professional Research and Publications ## 
+# Professional Research and Publications
 
 * ML in Production: Monitoring Security ML Models in Production. [Blog version of the paper](https://ai.sophos.com/2021/10/15/analyzing-security-ml-models-with-imperfect-data-in-production/)
 * Improving Analyst Workflow using Event Clustering: [CAMLIS 2021](https://www.camlis.org/2021-sopan)
